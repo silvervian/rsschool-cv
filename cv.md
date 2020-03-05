@@ -14,6 +14,9 @@ phone: +48 741 741 852
 **Goals:**
 Be a great JavaScript developrer.
 
+**Experience**
+FullStack Developer working with WordpPress and PrestaShop.
+
 **Skills:** 
 - HTML5/CSS 
 - JavaScript
