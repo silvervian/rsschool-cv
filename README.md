@@ -1,0 +1,1 @@
+[Link to my CV](http://silvervian.github.io/rsschool-cv/cv.md)
